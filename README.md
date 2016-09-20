@@ -1,3 +1,5 @@
-# angular2-heros
-# this is a example of angular 2 that they give you on their wesite 
-# https://angular.io/docs/ts/latest/guide/webpack.html#!#try
+#Tutorial
+#https://angular.io/docs/ts/latest/guide/webpack.html#!#try
+
+#Webpack
+#This is the tutorial on webpack :) much better
